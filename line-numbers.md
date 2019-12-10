@@ -6,7 +6,8 @@
 #### 6
 #### 7 owner's text
 #### 8
-#### 9 Github is really good.
+<<<<<<< HEAD
+#### 9 Github is really awesome
 #### 10
 #### 11
 #### 12
